@@ -1,0 +1,72 @@
+{
+  "eventList": [
+    {
+      "heading": "header",
+      "subHeading": "subHeader",
+      "body": "body",
+      "picture": "uri",
+      "link": "link",
+      "position": {
+        "type": "Point",
+        "coordinates": [ 125.6, 10.1 ]
+      },
+      "radius": 0,
+      "polygonAffectedArea": [
+        {
+          "type": "Point",
+          "coordinates": [ 125.6, 10.1 ]
+        }
+      ],
+      "polygonShouldGetNotis": [
+        {
+          "type": "Point",
+          "coordinates": [ 125.6, 10.1 ]
+        }
+      ],
+      "sendToAll": false,
+      "startTime": "2019-03-08T14:48:49.827Z",
+      "endTime": "2019-03-08T14:48:49.827Z",
+      "eventType": 4,
+      "sender": "Johan W",
+      "createdBy": {
+        "name": "Johan B",
+        "createdTime": "2019-03-08T14:48:49.828Z"
+      },
+      "createdByName": "Backe"
+    },
+    {
+      "heading": "header",
+      "subHeading": "subHeader",
+      "body": "body",
+      "picture": "uri",
+      "link": "link",
+      "position": {
+        "type": "Point",
+        "coordinates": [ 125.6, 10.1 ]
+      },
+      "radius": 0,
+      "polygonAffectedArea": [
+        {
+          "type": "Point",
+          "coordinates": [ 125.6, 10.1 ]
+        }
+      ],
+      "polygonShouldGetNotis": [
+        {
+          "type": "Point",
+          "coordinates": [ 125.6, 10.1 ]
+        }
+      ],
+      "sendToAll": false,
+      "startTime": "2019-03-08T14:48:49.827Z",
+      "endTime": "2019-03-08T14:48:49.827Z",
+      "eventType": 4,
+      "sender": "Johan W",
+      "createdBy": {
+        "name": "Johan B",
+        "createdTime": "2019-03-08T14:48:49.828Z"
+      },
+      "createdByName": "Backe"
+    }
+  ]
+}
